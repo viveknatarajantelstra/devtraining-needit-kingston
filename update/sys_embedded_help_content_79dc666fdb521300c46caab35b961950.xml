@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[ <h1 class="title topictitle1">Business applications</h1>  <div class="body conbody">  <p class="p">A business application is a software used by business users to perform a business function. You   can create or import business applications per your business requirements.</p>  <p class="p">Review the existing business applications and configure them to align with your business   needs.</p>  <p class="p">To modify a business application, click the business application name.</p>  <p class="p">To create a business application, click <span class="ph uicontrol">New</span>.</p> </div>]]></content>
+        <last_sync>2018-06-01 04:20:09</last_sync>
+        <modifier>setup</modifier>
+        <name>cmdb_ci_business_app_list-setup</name>
+        <page>cmdb_ci_business_app_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-06-01 04:20:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79dc666fdb521300c46caab35b961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci_business_app_list-setup</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_79dc666fdb521300c46caab35b961950</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-01 04:20:09</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=79dc666fdb521300c46caab35b961950"/>
+</record_update>
